@@ -27,15 +27,15 @@ Insert Into Categories (LibelleCategorie) Values ('Gloves');
 
 --- table TypesProduits
 
-Insert Into TypesProduits(LibelleCategorie) Values ('Grocery');  
-Insert Into TypesProduits(LibelleCategorie) Values ('Electronics');  
-Insert Into TypesProduits(LibelleCategorie) Values ('Shoes');  
-Insert Into TypesProduits(LibelleCategorie) Values ('Toys');  
-Insert Into TypesProduits(LibelleCategorie) Values ('Grocery');  
-Insert Into TypesProduits(LibelleCategorie) Values ('Health');  
-Insert Into TypesProduits(LibelleCategorie) Values ('Clothing');  
-Insert Into TypesProduits(LibelleCategorie) Values ('Toys');  
-Insert Into TypesProduits(LibelleCategorie) Values ('Books');  
-Insert Into TypesProduits(LibelleCategorie) Values ('Electronics');  
+Insert Into TypesProduits(LibelleTypesProduits) Values ('Grocery');  
+Insert Into TypesProduits(LibelleTypesProduits) Values ('Electronics');  
+Insert Into TypesProduits(LibelleTypesProduits) Values ('Shoes');  
+Insert Into TypesProduits(LibelleTypesProduits) Values ('Toys');  
+Insert Into TypesProduits(LibelleTypesProduits) Values ('Grocery');  
+Insert Into TypesProduits(LibelleTypesProduits) Values ('Health');  
+Insert Into TypesProduits(LibelleTypesProduits) Values ('Clothing');  
+Insert Into TypesProduits(LibelleTypesProduits) Values ('Toys');  
+Insert Into TypesProduits(LibelleTypesProduits) Values ('Books');  
+Insert Into TypesProduits(LibelleTypesProduits) Values ('Electronics');  
 
 

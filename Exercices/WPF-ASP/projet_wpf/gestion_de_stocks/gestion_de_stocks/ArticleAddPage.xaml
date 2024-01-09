@@ -74,7 +74,7 @@
                     </ToolTip>
                 </TextBox.ToolTip>
             </TextBox>
-            <TextBlock Text="{Binding ElementName=article_Name, Path=(Validation.Errors).ErrorContent}" Foreground="Red"/>
+            <TextBlock Text="{Binding ElementName=article_Name, Path=(Validation.Errors)[0].ErrorContent}" Foreground="Red"/>
                 
 
 

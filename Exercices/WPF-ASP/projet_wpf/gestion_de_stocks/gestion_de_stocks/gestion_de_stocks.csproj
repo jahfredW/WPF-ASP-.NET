@@ -9,6 +9,7 @@
 
 	<ItemGroup>
 		<PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.13" />
+		<PackageReference Include="Moq" Version="4.20.70" />
 		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
 	</ItemGroup>
 
@@ -26,6 +27,8 @@
 		<PackageReference Include="MySql.EntityFrameworkCore" Version="7.0.10" />
 		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
 	</ItemGroup>
+
+	
 
 	<ItemGroup>
 	  <Compile Update="TestValidation.cs">

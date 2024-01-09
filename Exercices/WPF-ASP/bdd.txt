@@ -1,0 +1,5 @@
+jdnabyqe_bdd
+code : jdnabyyqe_admin
+mdp : Farte512!3011!
+
+scaffold-DbContext -Connection "Server=185.221.182.40;Database=jdnabyqe_bdd;user=jdnabyqe_admin;password=Farte512!3011!"  MySql.EntityFrameworkCore -outputDir ".\Models\Data" -Context "nppContext" -ContextDir ".\Models"
